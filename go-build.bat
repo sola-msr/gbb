@@ -25,5 +25,3 @@ set GOARCH=%GOARCH%
 set GOOS=%GOOS%
 
 go build %BUILD_OP% %TARGET_FILE_PATH%
-
-cmd /k cd %TARGET_DIR%
