@@ -6,7 +6,7 @@ Go Build Bat -GBB- For Windows (WIndows bat file)
 Open `go-build.bat`, rewrite the following location, save and use.
 
 ```bat
-SET TARGET_DIR=
+SET TARGET_DIR=C:\your\project\directory
 
 SET GOARCH=amd64
 SET GOOS=linux
